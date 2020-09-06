@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xx9tt3LydP0xflWiu9+DkLjVcVscC0GS/Z6VvwqRirIrcB3McL5aREiWPlVNpbWJvd3Pgk0GC6TboxgMiqHNjg==",
+  "success": true,
+  "projectFilePath": "C:\\tizen-sdk\\source\\repos\\LED_Manager\\LED_Manager\\LED_Manager.Tizen\\LED_Manager.Tizen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeong\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\yeong\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\yeong\\.nuget\\packages\\tizen.net.api6\\6.0.0.14995\\tizen.net.api6.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\yeong\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

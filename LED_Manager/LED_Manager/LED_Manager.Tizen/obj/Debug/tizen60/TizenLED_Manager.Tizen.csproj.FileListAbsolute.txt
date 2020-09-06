@@ -1,0 +1,13 @@
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\LED_Manager.Tizen.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\LED_Manager.Tizen.pdb
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Core.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.Tizen.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Platform.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\Xamarin.Forms.Xaml.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\LED_Manager.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\bin\LED_Manager.pdb
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\LED_Manager.Tizen.deps.json
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\lib\libsharedlibraryled.so
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\shared\res\LED_Manager.Tizen.png
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\tpkroot\tizen-manifest.xml
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\org.tizen.example.LED_Manager.Tizen-1.0.0.tpk

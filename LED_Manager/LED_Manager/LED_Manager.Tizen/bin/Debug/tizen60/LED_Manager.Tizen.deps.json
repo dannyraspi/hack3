@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": "Tizen,Version=v6.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    "Tizen,Version=v6.0": {},
+    "Tizen,Version=v6.0/": {
+      "LED_Manager.Tizen/1.0.0": {
+        "dependencies": {
+          "LED_Manager": "1.0.0",
+          "Tizen.NET": "6.0.0.14995"
+        },
+        "runtime": {
+          "LED_Manager.Tizen.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.0.0": {},
+      "Tizen.NET/6.0.0.14995": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "Tizen.NET.API6": "6.0.0.14995"
+        }
+      },
+      "Tizen.NET.API6/6.0.0.14995": {},
+      "Xamarin.Forms/4.3.0.908675": {
+        "dependencies": {
+          "Tizen.NET": "6.0.0.14995"
+        },
+        "runtime": {
+          "lib/tizen40/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          },
+          "lib/tizen40/Xamarin.Forms.Platform.Tizen.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          },
+          "lib/tizen40/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          },
+          "lib/tizen40/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.3.0.336"
+          }
+        }
+      },
+      "LED_Manager/1.0.0": {
+        "dependencies": {
+          "Xamarin.Forms": "4.3.0.908675"
+        },
+        "runtime": {
+          "LED_Manager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LED_Manager.Tizen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "path": "microsoft.netcore.platforms/2.0.0",
+      "hashPath": "microsoft.netcore.platforms.2.0.0.nupkg.sha512"
+    },
+    "Tizen.NET/6.0.0.14995": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vx7tSPQwfp2ZlX1D5FDKwuRWzb3QHn/zFYY6A/tRL+J0d28a0kkyJqyKEizRIiAASimS0X/ne1CRNkOihnO5WA==",
+      "path": "tizen.net/6.0.0.14995",
+      "hashPath": "tizen.net.6.0.0.14995.nupkg.sha512"
+    },
+    "Tizen.NET.API6/6.0.0.14995": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j9aluiOXT/5uOi+J4Gj9dkeZCr5PXdKw6jyRjOncgQelZFUu7nU/L807YAN3brTapkgv/7cfoBvbcK9mWfwdwA==",
+      "path": "tizen.net.api6/6.0.0.14995",
+      "hashPath": "tizen.net.api6.6.0.0.14995.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.3.0.908675": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kXrbXKJvXYF4cKjs1Jsb+pQFEnFGl0AONYSeABjgOJqN/o5Y4zC0XXQ68xiUI81PKQTuRB5F3oDom2t5ccJDZw==",
+      "path": "xamarin.forms/4.3.0.908675",
+      "hashPath": "xamarin.forms.4.3.0.908675.nupkg.sha512"
+    },
+    "LED_Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

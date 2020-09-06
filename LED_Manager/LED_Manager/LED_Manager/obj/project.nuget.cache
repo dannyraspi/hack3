@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+BujPr82DKUO2uflwql0dTRYgS9gbnsl9xbtlAAmxTFhaAsbY8RyS/xZYZkMysFSUKLVW8ETUrLVPXZfuwMNA==",
+  "success": true,
+  "projectFilePath": "C:\\tizen-sdk\\source\\repos\\LED_Manager\\LED_Manager\\LED_Manager\\LED_Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeong\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\yeong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\yeong\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LED_Manager.MainPage">
+    <ContentPage.Content>
+        <AbsoluteLayout>
+            <Label Text="Hello Code Club! : 홈시스템 제어" 
+                   FontSize="25"
+                   TextColor="DeepPink"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center"
+                   AbsoluteLayout.LayoutFlags="All"
+                   AbsoluteLayout.LayoutBounds="0.5,0.05,1.0,0.20" />
+            <Button Text="거실등 ON"
+                    Clicked="Button1_TurnOn" 
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.25,0.25,0.20,0.1"
+                    BackgroundColor="##000000"
+                    TextColor="Yellow"/>
+            <Button Text="거실등 OFF"
+                    Clicked="Button1_TurnOff"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.75,0.25,0.20,0.1" />
+            <Button Text="안방등 ON"
+                    Clicked="Button2_TurnOn" 
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.25,0.45,0.20,0.1"
+                    TextColor="Yellow"/>
+            <Button Text="안방등 OFF"
+                    Clicked="Button2_TurnOff"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.75,0.45,0.20,0.1" />
+            <Button Text="가스밸브 차단"
+                    Clicked="Button3_TurnOff"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.5,0.65,0.20,0.1" />
+            <Button Text="환풍기 On"
+                    Clicked="Button4_TurnOn" 
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.25,0.85,0.20,0.1"
+                    TextColor="Yellow"/>
+            <Button Text="환풍기 Off"
+                    Clicked="Button4_TurnOff"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.75,0.85,0.20,0.1" />
+        </AbsoluteLayout>            
+    </ContentPage.Content>
+</ContentPage>

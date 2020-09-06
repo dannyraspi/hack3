@@ -1,0 +1,12 @@
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\bin\Debug\netstandard2.0\LED_Manager.deps.json
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\bin\Debug\netstandard2.0\LED_Manager.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\bin\Debug\netstandard2.0\LED_Manager.pdb
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.csprojAssemblyReference.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.AssemblyInfoInputs.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.AssemblyInfo.cs
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.csproj.CoreCompileInputs.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\XamlC.stamp
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager\obj\Debug\netstandard2.0\LED_Manager.pdb

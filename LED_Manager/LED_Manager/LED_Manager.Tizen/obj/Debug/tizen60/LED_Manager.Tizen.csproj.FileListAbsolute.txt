@@ -1,0 +1,12 @@
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\LED_Manager.Tizen.deps.json
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\LED_Manager.Tizen.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\LED_Manager.Tizen.pdb
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\LED_Manager.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\bin\Debug\tizen60\LED_Manager.pdb
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.csprojAssemblyReference.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.AssemblyInfoInputs.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.AssemblyInfo.cs
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.csproj.CoreCompileInputs.cache
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.csproj.CopyComplete
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.dll
+C:\tizen-sdk\source\repos\LED_Manager\LED_Manager\LED_Manager.Tizen\obj\Debug\tizen60\LED_Manager.Tizen.pdb

@@ -1,0 +1,117 @@
+<Signature Id="DistributorSignature" xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+    <CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" />
+    <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+    <Reference URI="tizen-manifest.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>RG+F5liyjX0qgRqRlMsmKXjPnellFX4WqmGrlXrmlNs=</DigestValue>
+    </Reference>
+    <Reference URI="shared%2Fres%2FLED_Manager.Tizen.png">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>/gTbhhRqVKFAMykTkZyDaEozK7OBNMSXGtsJpmRcLuE=</DigestValue>
+    </Reference>
+    <Reference URI="lib%2Flibsharedlibraryled.so">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>TV9vD8UDLNfrvwh86n4958vAv7wt8mC2zg+nmf8ITtk=</DigestValue>
+    </Reference>
+    <Reference URI="LED_Manager.Tizen.deps.json">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>mWsKhsxA1nYfcJ0zR01OGjxe0766xhBfEFnyLECw9sA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Xaml.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>LnFbVnclwS4jchTkNmBiLe47s9LdTO+pSI2ezazzCeY=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Platform.Tizen.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>fnXfwtt5gXtq4V6dxVfX8VaX0a2pbGHTHpdjOsUH8vg=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Platform.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>o0fYFDtrTaf8w09hfnxTYsm+IjCAlxl+1Mqy+NwAi8Y=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FXamarin.Forms.Core.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>YJBYHi25Xnd2Fjb99A6dc/8vNrOou7KP4x6luKg5pp4=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FLED_Manager.Tizen.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>9Fa++jv37HAgUtpCgSr68HSVriACpZAptIgX785/exA=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FLED_Manager.Tizen.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>O7RWP8ersEKEr5BaW9AI4P3Dv5hh1nVbDYHWJtWndDk=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FLED_Manager.pdb">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>7ckK0q75RdqyXSqcS6OLSHZFvTdXhL1573r6TuEuQZI=</DigestValue>
+    </Reference>
+    <Reference URI="bin%2FLED_Manager.dll">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>ueOgImzvexZEh0IExr2QtzGXAyMJGRVBmHlw1xQVHBk=</DigestValue>
+    </Reference>
+    <Reference URI="author-signature.xml">
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>SQ8pSqRJGCkE28U2dabx/FKaLIPwzumthPtlE0ZS5r4=</DigestValue>
+    </Reference>
+    <Reference URI="#prop">
+      <Transforms>
+        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      </Transforms>
+      <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+      <DigestValue>abSCdQC03ZcPoEN8T0eWSILDIhDi2uNziivgdw1gmmQ=</DigestValue>
+    </Reference>
+  </SignedInfo>
+  <SignatureValue>
+Lt5tszEYDSCx4JxezQ1QHcrgA/c0vocljgFqWbPp+eAOVDGmtGwMbJENDMh1Dtdj5Iu+X6B/siNK
+FUF6vrpwJ3ezwkx+thqMKA6ZxZReceJ3zkLUhgIA+/6vq6CotKelb5Gy2wphaKwxY1xmj0H4vZBZ
+uhmD7qIEwS8iQ7yQGcY=
+</SignatureValue>
+  <KeyInfo>
+    <X509Data>
+      <X509Certificate>
+MIICtzCCAiACCQCX7BAlwjllkTANBgkqhkiG9w0BAQUFADCBnTELMAkGA1UEBhMCS1IxDjAMBgNV
+BAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwNVGl6ZW4gVGVzdCBDQTEiMCAGA1UE
+CwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTEyMDAGA1UEAwwpVGl6ZW4gUGFydG5lci1NYW51
+ZmFjdHVyZXIgRGlzdHJpYnV0b3IgQ0EwHhcNMTIxMjEzMDU0NDI3WhcNMjIxMjExMDU0NDI3WjCB
+oTELMAkGA1UEBhMCS1IxDjAMBgNVBAgMBVN1d29uMQ4wDAYDVQQHDAVTdXdvbjEWMBQGA1UECgwN
+VGl6ZW4gVGVzdCBDQTEiMCAGA1UECwwZVGl6ZW4gRGlzdHJpYnV0b3IgVGVzdCBDQTE2MDQGA1UE
+AwwtVGl6ZW4gUGFydG5lci1NYW51ZmFjdHVyZXIgRGlzdHJpYnV0b3IgU2lnbmVyMIGfMA0GCSqG
+SIb3DQEBAQUAA4GNADCBiQKBgQC2O0i2ou9Pa8KI+RVu6/1QAMichy8YqDtpM4cogiX+tYfafN/v
+4l7q9sQdotaFPLWPR1HNtG6O6SKWZmM/Hp2U+S3vDeylEhex/IopWF9RZMPJFyKr9bJnlzTqiZuz
+qItlXOZZBHhUL73v6OxqYg2BsA88jLtCoZWVAkoKDX93ZQIDAQABMA0GCSqGSIb3DQEBBQUAA4GB
+AJ5vn+dEhnZFuRdIMUt8TwQzXSxPMqNmR8+fcwwzAacxeOTgeK1C+DqE31vead/c8CVDMurZHQbs
+qH/Ala6FomTm1q0uuM3Ll2qZaPkI3qr+h37YD4AI5scyIlP7ppApcdPRSkDgqfXkika62Q9M0+MN
+nxl8+AvEukgC6qcd90oL
+</X509Certificate>
+      <X509Certificate>
+MIICzzCCAjigAwIBAgIJAMNp1nbwir4GMA0GCSqGSIb3DQEBBQUAMIGiMQswCQYDVQQGEwJLUjEO
+MAwGA1UECAwFU3V3b24xDjAMBgNVBAcMBVN1d29uMRYwFAYDVQQKDA1UaXplbiBUZXN0IENBMSIw
+IAYDVQQLDBlUaXplbiBEaXN0cmlidXRvciBUZXN0IENBMTcwNQYDVQQDDC5UaXplbiBQYXJ0bmVy
+LU1hbnVmYWN0dXJlciBEaXN0cmlidXRvciBSb290IENBMB4XDTEyMTIxMzA1NDQyMFoXDTIyMTIx
+MTA1NDQyMFowgZ0xCzAJBgNVBAYTAktSMQ4wDAYDVQQIDAVTdXdvbjEOMAwGA1UEBwwFU3V3b24x
+FjAUBgNVBAoMDVRpemVuIFRlc3QgQ0ExIjAgBgNVBAsMGVRpemVuIERpc3RyaWJ1dG9yIFRlc3Qg
+Q0ExMjAwBgNVBAMMKVRpemVuIFBhcnRuZXItTWFudWZhY3R1cmVyIERpc3RyaWJ1dG9yIENBMIGf
+MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMni4Qmv96ww/De92kYhtzpas7viwyYoFTTuvcmayD
+FBuDoaHqrSDsrb9M7qrR4N9higg1mT8a9J8CUhPLKhlifK9OwyQsZS+8xVfPfogIJ3wumfjLl5zi
+nqpkSe2ernxOTU+PB5lWU8toKbnJO3+jchm14DjCQ4ZoqG26qbG5pQIDAQABoxAwDjAMBgNVHRME
+BTADAQH/MA0GCSqGSIb3DQEBBQUAA4GBAA9lsDyArDR9balTfqrjN241nVqyLqPOP+MFRjGWrIlI
+yLDcw2/L9hxguD8XhgAanaQUzS06XM6BajDjcSiJrohjoMFkB09M+r5fVkrhkT29oABsKXO87+p8
+JbbbIfdwMUrAjXsrjMUzJ3J6fn86/dn/PcuMAkCgrD069IzpE8NM
+</X509Certificate>
+    </X509Data>
+  </KeyInfo>
+  <Object Id="prop">
+    <SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties">
+      <SignatureProperty Id="profile" Target="#DistributorSignature">
+        <dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile" />
+      </SignatureProperty>
+      <SignatureProperty Id="role" Target="#DistributorSignature">
+        <dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-distributor" />
+      </SignatureProperty>
+      <SignatureProperty Id="identifier" Target="#DistributorSignature">
+        <dsp:Identifier />
+      </SignatureProperty>
+    </SignatureProperties>
+  </Object>
+</Signature>
