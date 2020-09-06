@@ -1,4 +1,4 @@
-## 유투브 동영상 링크
+## 유튜브 동영상 링크
 https://youtu.be/aF1xcRvFaRA
 
 
